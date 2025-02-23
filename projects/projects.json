@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Supermarket Customer Analysis",
+    "desc": "Analyze supermarket customer data to boost marketing, sales, and product bundling by understanding preferences and demographics.",
+    "image": "skibidisupermarket",
+    "category": "analysis",
+    "links": {
+      "view": "https://www.linkedin.com/in/syafiqb/details/projects/",
+      "code": "https://github.com/Syafiqb/Supermarket-Customers-Analysis.git"
+    }
+  },
+  {
+    "name": "Cohort Retention Analysis",
+    "desc": "Cosmetics e-commerce platforms face cart abandonment due to pricing, brand loyalty, and other factors, impacting customer retention.",
+    "image": "cohort",
+    "category": "analysis",
+    "links": {
+      "view": "https://www.linkedin.com/in/syafiqb/details/projects/",
+      "code": "https://github.com/Syafiqb/Cohort-Retention-Analysis.git"
+    }
+  },
+  {
+    "name": "Retail Store RFM Analysis",
+    "desc": "A retail store aims to analyze customer patterns, value, and characteristics to improve engagement strategies.",
+    "image": "rfm",
+    "category": "analysis",
+    "links": {
+      "view": "https://www.linkedin.com/in/syafiqb/details/projects/",
+      "code": "https://github.com/Syafiqb/Retail-Store-RFM-Analysis.git"
+    }
+  },
+  {
+    "name": "Time Series Forecasting : TOWR",
+    "desc": "Analyzing TOWR's historical stock prices helps identify trends, volatility, and predict future movements for strategic decision-making.",
+    "image": "towr",
+    "category": "machine",
+    "links": {
+      "view": "https://www.linkedin.com/in/syafiqb/details/projects/",
+      "code": "https://github.com/Syafiqb/TOWR-Forecast.git"
+    }
+  },
+  {
+    "name": "Sentiment Analysis Text Mining",
+    "desc": "The Free Nutritious Food Program faces challenges in gauging public perception due to unstructured social media and news data.",
+    "image": "makan",
+    "category": "deep",
+    "links": {
+      "view": "https://www.linkedin.com/in/syafiqb/details/projects/",
+      "code": "https://github.com/Syafiqb/Sentimen-Analysis.git"
+    }
+  },
+  {
+    "name": "Bank Marketing Campaign",
+    "desc": "This project analyzes Bank Sigma's term deposit campaign using historical data to identify customer traits linked to higher participation.",
+    "image": "bankm",
+    "category": "machine",
+    "links": {
+      "view": "https://www.linkedin.com/in/syafiqb/details/projects/",
+      "code": "https://github.com/Syafiqb/Capstone3.git"
+    }
+  },
+  {
+    "name": "Mobile App Design Furniture Shop",
+    "desc": "Furniture shopping app with login, product listings, detailed views, cart, and payment options for a smooth user experience.",
+    "image": "furniture",
+    "category": "ui",
+    "links": {
+      "view": "https://www.figma.com/design/nTqE6kYa4dsfcg054SUmQM/project?node-id=0-1&p=f&t=uWfYWD2rV1P1SRxv-0",
+      "code": "https://www.figma.com/design/nTqE6kYa4dsfcg054SUmQM/project?node-id=0-1&p=f&t=uWfYWD2rV1P1SRxv-0"
+    }
+  }
+]
